@@ -1,0 +1,20 @@
+.table {
+  color: red;
+  font-size: larger;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid royalblue;
+}
+
+.card-body {
+  height: 20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #54545447;
+}
+
+.for-random-color {
+  color: #098971a6;
+}
